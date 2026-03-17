@@ -1,0 +1,30 @@
+# AI Governance Model
+
+## Overview
+This model defines the structure required to manage AI systems responsibly within an organization.
+
+## Key Roles
+
+### 1. AI Governance Lead
+Responsible for oversight, risk management, and compliance alignment.
+
+### 2. Cybersecurity Team
+Ensures system security, access control, and monitoring.
+
+### 3. Compliance Officer
+Validates regulatory requirements and policy adherence.
+
+### 4. Data Management Team
+Handles data quality, privacy, and lifecycle management.
+
+## Governance Flow
+
+1. AI system proposal
+2. Risk assessment
+3. Approval process
+4. Deployment with controls
+5. Continuous monitoring
+6. Incident response
+
+## Importance
+A defined governance structure ensures that AI systems are secure, accountable, and aligned with organizational and regulatory requirements.
